@@ -5,7 +5,7 @@
 
 Note: We have two variants of Namecheap.com WHMCS Registrar plugins for WHMCS version 4 and 5. You need to download and install Namecheap.com WHMCS Registrar Plugin version 1.1.12 is for WHMCS version 4 and Namecheap.com WHMCS Registrar Plugin version 1.2.7 for WHMCS 5.
 
-##### Updated on Oct 22, 2013 to Version 1.2.7 for WHMCS 5
+##### Updated on May 11, 2014 to Version 1.2.7 for WHMCS 5
 
 - Added ability to enable WhoisGuard with transfers
 - Added active and transfer domain syncing module functions according to WHMCS Domain Cron Synchronisation flow
