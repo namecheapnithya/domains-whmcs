@@ -8,20 +8,18 @@ Note: We have two variants of Namecheap.com WHMCS Registrar plugins for WHMCS ve
 ##### Updated on Oct 22, 2013 to Version 1.2.7 for WHMCS 5
 
 - Added ability to enable WhoisGuard with transfers
-
 - Added active and transfer domain syncing module functions according to WHMCS Domain Cron Synchronisation flow
-
 - Removed module domain synchronization script (deprecated)
-
 - Changed method of creating Registrant/Billing/Admin/Tech contact details API parameters depending on WHMCS general settings for domains:
-
 - When "Use Clients Details" checkbox is checked Registrant/Billing/Admin/Tech contacts are taken from Client details, if not - Registrant details are taken from Client details, and Billing/Admin/Tech - from Default Contact Details.
-
 - Added quotes decoding for epp code (whmcs bug)
-
 - Removed "http_x_forwarded_for" for client ip address
-
 - Added .asia Locality parameter to custom additionaldomainfields.php
+ 
+
+##### Updated on Jul 25, 2012 to Version 1.1.12 for WHMCS 4
+
+- Extended attributes for .me.uk domains
 
 ##### ReleaseNotes
 
