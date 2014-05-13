@@ -3,9 +3,9 @@
 
 ***
 
-Note: We have two variants of Namecheap.com WHMCS Registrar plugins for WHMCS version 4 and 5. You need to download and install Namecheap.com WHMCS Registrar Plugin version 1.1.12 is for WHMCS version 4 and Namecheap.com WHMCS Registrar Plugin version 1.2.7 for WHMCS 5.
+Note: We have two variants of Namecheap.com WHMCS Registrar plugins for WHMCS version 4 and 5. You need to download and install Namecheap.com WHMCS Registrar Plugin version 1.1.12 is for WHMCS version 4 and Namecheap.com WHMCS Registrar Plugin version 1.2.8 for WHMCS 5.
 
-##### Updated on May 11, 2014 to Version 1.2.7 for WHMCS 5
+##### Updated on May 11, 2014 to Version 1.2.8 for WHMCS 5
 
 - Added ability to enable WhoisGuard with transfers
 - Added active and transfer domain syncing module functions according to WHMCS Domain Cron Synchronisation flow
@@ -15,13 +15,10 @@ Note: We have two variants of Namecheap.com WHMCS Registrar plugins for WHMCS ve
 - Added quotes decoding for epp code (whmcs bug)
 - Removed "http_x_forwarded_for" for client ip address
 - Added .asia Locality parameter to custom additionaldomainfields.php
- 
 
-##### Updated on Jul 25, 2012 to Version 1.1.12 for WHMCS 4
+#####![Changelog](https://github.com/namecheap/domains-whmcs/wiki/Changelog) 
 
-- Extended attributes for .me.uk domains
-
-##### ReleaseNotes
+***
 
 Namecheap.com WHMCS Registrar plug-in is an open-source plug-in that is distributed free of charge. It focuses on integrating Namecheap as a domain registrar at WHMCS.
 
