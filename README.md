@@ -33,7 +33,7 @@ NOTE: Namecheap has a production as well as a test server environment. The test 
 
 ##### Download and Installation
 
-- Download the latest plugin (namecheap-whmcs.x.x.zip) archive and extract it.
+- If you are a github user, fork/clone this repository into your github account. If you do not have a github account, use the download ZIP option to make a copy.
 - Create a folder called namecheap under Modules/Registrar in your WHMCS root directory and paste the downloaded namecheap.php and namecheapapi.php files inside the folder (the namecheap.php and namecheapapi.php files are located inside the downloaded archive). The plug-in installation is complete.
 
 ##### Configuration
@@ -43,9 +43,9 @@ To configure WHMCS for use with Namecheap, perform the following steps:
 1. Login to your **WHMCS admin** panel.
 2. Click on **Setup** menu, select **Products/Services** and click on **Domain Registrars**.
 3. Click on Activate next to Namecheap in the list:
-![Activate Plugin](http://files.namecheap.com/images/googlecode/Activate_Namecheap.png)
+![Activate Plugin](http://files.namecheap.com/images/googlecode/activate.png)
 4. Enter your API credentials. If you wish to try out the plug-in in sandbox, make sure to enter your sandbox username, sandbox API key in the corresponding text boxes and check the “Test Mode” checkbox:
-![Test Mode](http://files.namecheap.com/images/googlecode/Configure_Namecheap.png)
+![Test Mode](http://files.namecheap.com/images/googlecode/configure.png)
 5. Optional settings:
  - If you have a promotional coupon code from Namecheap you may enter it in the module settings. The discounted price will be automatically applied on your orders according to the coupon pricing.
  - If you’re having any issues with the module it is recommended to enable DebugMode and check the logs under Utilities > Logs > Module Log. If this option is disabled the module will be logging only errors returned by the module.
